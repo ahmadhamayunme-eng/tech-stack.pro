@@ -1,8 +1,0 @@
-node_modules
-.codex-tools
-.next
-out
-.env*
-*.log
-.vercel
-dist
