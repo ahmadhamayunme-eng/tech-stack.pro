@@ -19,6 +19,9 @@ export function createMetadata({ title, description, path = "/" }: SeoInput): Me
     alternates: {
       canonical: url
     },
+    other: {
+      "verify-admitad": "4b1685ead3"
+    },
     openGraph: {
       title,
       description,
